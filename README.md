@@ -31,7 +31,7 @@ A Grand World RolePlay Launcher szigorú másolásvédelmi intézkedésekkel ren
 
 Ha bármilyen kérdésed van, vagy segítségre van szükséged, kérjük, vedd fel velünk a kapcsolatot:
 
-- **E-mail**: support@example.com
+- **E-mail**: support@gta5grandworld-rp.hu
 - **Discord**: [Discord link](https://discord.gg/grandworldhu)
 
 ## Licenc
