@@ -1,0 +1,25 @@
+{
+  "useOverlay": false, 
+  "discord": "https://discord.gg/GWZsjkJ",
+  "servers": [
+      {
+          "customName": true,
+          "svname": "Grand Dev #1 HU",
+          "langIcon": "hu_flag",
+          "ip": "3d8kyr"
+      },
+      {
+          "customName": true,
+          "svname": "Szerver #2 HU",
+          "langIcon": "hu_flag",
+          "ip": "3d8kyrss"
+      }
+  ],
+  "urls": {
+      "discord": "https://dicord.gg/MkKedEHav7",
+      "twitter": "https://www.twitter.com",
+      "youtube": "https://www.youtube.com/@grandworldrp_hu",
+      "support": "https://discord.com/channels/1177826974044012615/1177826975885316199",
+      "watch": "https://www.youtube.com/watch?v=jfG4V0XEmNo&t=4s"
+  }
+}
